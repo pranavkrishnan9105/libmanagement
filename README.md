@@ -1,2 +1,8 @@
-# libmanagement
-Library Management System This is a Library Management System designed to automate and streamline the management of library resources. It allows users to easily manage books, users, and library transactions. The system is built to facilitate efficient tracking and management of borrowed books, maintaining user records, and ensuring proper returns. 
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
